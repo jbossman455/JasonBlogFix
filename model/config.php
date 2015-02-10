@@ -1,5 +1,5 @@
 <?php
-   
+   $path = "/byrdj-blog/";
    
    $host = "localhost";
    $username = "root";
