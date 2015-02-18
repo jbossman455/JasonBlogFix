@@ -13,7 +13,11 @@ class Database {
      $this->database = $database;
      $this->password = $password;
      $this->username = $username;
+     
+     
+     
  }
+ 
     public function openConnection () {
         $this->connection= new mysqli($this->host, $this->username,$this->password, $this->database);
          
@@ -34,7 +38,7 @@ class Database {
         $query = $this->connection->query($string);
         
         if (!$query) {
-            $error = $this->connection->error;
+         $this->error = $this->connection->error;
             
         }
         
