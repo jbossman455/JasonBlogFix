@@ -5,15 +5,12 @@
         <group>
             <file>file:/C:/xampp/htdocs/byrdj-Blog/model/config.php</file>
             <file>file:/C:/xampp/htdocs/byrdj-Blog/view/register-form.php</file>
-            <file>file:/C:/xampp/htdocs/byrdj-Blog/post.php</file>
+            <file>file:/C:/xampp/htdocs/byrdj-Blog/controller/create-user.php</file>
             <file>file:/C:/xampp/htdocs/byrdj-Blog/model/Database.php</file>
-            <file>file:/C:/xampp/htdocs/byrdj-Blog/index.php</file>
             <file>file:/C:/xampp/htdocs/byrdj-Blog/register.php</file>
             <file>file:/C:/xampp/htdocs/byrdj-Blog/controller/create-post.php</file>
-            <file>file:/C:/xampp/htdocs/byrdj-Blog/view/header.php</file>
             <file>file:/C:/xampp/htdocs/byrdj-Blog/controller/create-db.php</file>
             <file>file:/C:/xampp/htdocs/byrdj-Blog/view/form.php</file>
-            <file>file:/C:/xampp/htdocs/byrdj-Blog/view/navigation.php</file>
         </group>
     </open-files>
 </project-private>
